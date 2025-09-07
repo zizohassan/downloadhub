@@ -1,10 +1,11 @@
 # Download Manager
 
-<img width="502" height="399" alt="Screenshot 2025-09-08 at 12 05 06 AM" src="https://github.com/user-attachments/assets/e1fa5c1a-0e99-40a7-b66d-88b477ca6429" />
+<img width="1002" height="732" alt="Screenshot 2025-09-08 at 12 04 31 AM" src="https://github.com/user-attachments/assets/3f7015b4-6601-45f8-971e-c2fa9e115b82" />
 
 <img width="1002" height="731" alt="Screenshot 2025-09-08 at 12 04 51 AM" src="https://github.com/user-attachments/assets/60acab37-73af-42f4-911e-cbc1eb865eb4" />
 
-<img width="1002" height="732" alt="Screenshot 2025-09-08 at 12 04 31 AM" src="https://github.com/user-attachments/assets/3f7015b4-6601-45f8-971e-c2fa9e115b82" />
+<img width="502" height="399" alt="Screenshot 2025-09-08 at 12 05 06 AM" src="https://github.com/user-attachments/assets/e1fa5c1a-0e99-40a7-b66d-88b477ca6429" />
+
 
 A modern, multi-threaded download manager built with Go and Fyne GUI framework. Features chunked downloads, progress tracking, and a clean, intuitive interface.
 
